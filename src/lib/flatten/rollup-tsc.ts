@@ -7,7 +7,7 @@ import { debug } from '../util/log';
  * Downlevels a .js file from ES2015 to ES5. Internally, uses `tsc`.
  *
  */
-export async function downlevelWithTsc(code: string, filePath: string): Promise<SourceDescription> {
+export async function downlevelWithTsc(code: string, filePath: string): Promise<any> {
   debug(`tsc ${filePath}`);
   const compilerOptions: CompilerOptions = {
     target: ScriptTarget.ES5,
