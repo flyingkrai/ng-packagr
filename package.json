@@ -1,7 +1,7 @@
 {
   "name": "ng-packagr",
-  "version": "2.4.2",
-  "description": "Compile and package a TypeScript library to Angular Package Format",
+  "version": "2.4.3",
+  "description": "Fork from ng-packagr",
   "keywords": [
     "angular",
     "angular2",
@@ -14,12 +14,12 @@
     "scss",
     "html"
   ],
-  "author": "David Herges <david@spektrakel.de>",
+  "author": "Davi Alves <dhey@davialves.com>",
   "license": "MIT",
-  "repository": "https://github.com/dherges/ng-packagr.git",
-  "homepage": "https://github.com/dherges/ng-packagr",
+  "repository": "https://github.com/flyingkrai/ng-packagr.git",
+  "homepage": "https://github.com/flyingkrai/ng-packagr",
   "bugs": {
-    "url": "https://github.com/dherges/ng-packagr/issues"
+    "url": "https://github.com/flyingkrai/ng-packagr/issues"
   },
   "bin": {
     "ng-packagr": "./cli/main.js"

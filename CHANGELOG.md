@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.4.3"></a>
+## [2.4.3](https://github.com/flyingkrai/ng-packagr/compare/v2.4.2...v2.4.3) (2018-04-19)
+
+
+### Bug Fixes
+
+* temporary change shouldIgnoreWarningsForPath to true ([354b62a](https://github.com/flyingkrai/ng-packagr/commit/354b62a))
+
+
+
 <a name="2.4.2"></a>
 ## [2.4.2](https://github.com/dherges/ng-packagr/compare/v2.4.1...v2.4.2) (2018-04-08)
 
